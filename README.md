@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Explain in general terms what the execution context is.
-- Describe the difference between global- and function-scoped code.
-- Understand how block scoping affects variables declared with `let` and `const`.
+- Explain in general terms what the execution context is- All SW completed, deployed and <> 1, YES NO; AZBOX, DPCS, KCS, and KSMpayload, OK
+- Describe the difference between global- and function-scoped code
+- Understand how block scoping affects variables declared with `let` and `const`
 
 ## Introduction
 
